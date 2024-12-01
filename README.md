@@ -22,3 +22,12 @@ Inspired by OpenAI's API design, aisuite-go allows developers to seamlessly test
 2. Flexible and Extensible: Swap out providers effortlessly for experimentation.
 3. Optimized for Stability: Uses HTTP or SDKs for robust communication.
 4. Future-Proof: Ongoing plans to expand beyond chat completions to other use cases.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- aisuite (https://github.com/andrewyng/aisuite): Simple python package and an unified interface to multiple Generative AI providers
+- GolangCi-Lint (https://github.com/golangci/golangci-lint): golangci-lint is a fast Go linters runner.
